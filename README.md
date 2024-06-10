@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Baibhav Chel.
 
-A passionate frontend developer from Bangalore.
+A passionate software developer from Bangalore.
 
 🌱 I’m currently exploring Java Full Stack Development.
 
